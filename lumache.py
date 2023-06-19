@@ -1,8 +1,8 @@
 """
-Lumache - Python library for cooks and food lovers.
+Buy It For Life - A Source for Long-Life Products
 """
 
-__version__ = "0.1.0"
+__version__ = "0.0.1"
 
 
 class InvalidKindError(Exception):
