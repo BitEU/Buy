@@ -1,11 +1,7 @@
 Welcome to the Buy it For Life Wiki!
 ===================================
 
-This is an utter shitshow and I am sure I am going to change
-the project framework 5-6 times before I find a good and working one. 
-Please, bare with us while I stumble about.
-
-Check out the :doc:`usage` section for further information.
+This project was far more of a battle than you'd think. Anywho, welcome to pre-alpha! Bear with me.
 
 .. note::
 
