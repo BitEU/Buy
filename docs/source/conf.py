@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Buy'
+project = 'Buy It For Life'
 copyright = '2023, SirShanova'
 author = 'SirShanova'
 
