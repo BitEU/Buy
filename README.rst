@@ -1,9 +1,9 @@
-Template for the Read the Docs tutorial
+Template for the Buy It For Life Wiki!
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+If you're looking for the wiki, you're unfortunately in the wrong place.
 
-Read the tutorial here:
+Find us here:
+https://buy.readthedocs.io/en/latest/index.html
 
-https://docs.readthedocs.io/en/stable/tutorial/
+If you're looking to *edit* the wiki, well, then good news!
