@@ -47,6 +47,9 @@ Photography and Astronomy
 
 `https://www.usa.canon.com/shop/p/eos-r-rf24-105mm-f4-7-1-is-stm-lens-kit?color=Black&type=New <https://www.usa.canon.com/shop/p/eos-r-rf24-105mm-f4-7-1-is-stm-lens-kit?color=Black&type=New>`_
 
+Home Stereo
+"""""""""""""
+
 **Dolby Atmos and surround soundbar:**
 
 `https://www.klipsch.com/products/cinema-800-sound-bar <https://www.klipsch.com/products/cinema-800-sound-bar>`_
@@ -54,6 +57,9 @@ Photography and Astronomy
 **Sony TV:**
 
 `https://electronics.sony.com/tv-video/televisions/all-tvs/p/xr65a95k <https://electronics.sony.com/tv-video/televisions/all-tvs/p/xr65a95k>`_
+
+Portable Audio Solutions
+"""""""""""""
 
 **Open style wired earbuds:**
 
