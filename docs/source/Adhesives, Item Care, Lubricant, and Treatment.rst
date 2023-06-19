@@ -1,5 +1,5 @@
 
-Adhesives, Item Care, Lubricant, Tapes, and Treatment
+Adhesives, Item Care, Lubricant, and Treatment
 -----------------------------------------------------
 
 Leather
