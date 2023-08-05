@@ -270,6 +270,10 @@ OR
 
 `https://www.williams-sonoma.com/products/technivorm-moccamaster-coffee-maker-glass-carafe/?catalogId=79&sku=2345965& <https://www.williams-sonoma.com/products/technivorm-moccamaster-coffee-maker-glass-carafe/?catalogId=79&sku=2345965&>`_
 
+**DeLonghi Magnifica Super-automatic espresso machine:**
+
+`https://www.delonghi.com/en-ca/magnifica-automatic-espresso-machine-cappuccino-maker-esam-esam3300/p/ESAM-3300 <https://www.delonghi.com/en-ca/magnifica-automatic-espresso-machine-cappuccino-maker-esam-esam3300/p/ESAM-3300>`_
+
 **WhiteThermoWorks Thermapen ONE thermometer:**
 
 `https://www.thermoworks.com/thermapen-one/ <https://www.thermoworks.com/thermapen-one/>`_
